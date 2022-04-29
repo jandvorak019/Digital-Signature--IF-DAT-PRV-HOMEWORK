@@ -1,4 +1,4 @@
-# Digital-Signature--IF-DAT-PRV-HOMEWORK
+# Digital-Signature-ŠIF-DAT-PRV-HOMEWORK
 
 
 ## Extensions and usage
