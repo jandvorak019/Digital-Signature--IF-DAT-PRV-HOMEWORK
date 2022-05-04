@@ -3,9 +3,8 @@
 
 ## Extensions and usage
 
-You will probably need a Python extension.
+You will need a Python extension in Extensions.
 
-You simply run it.
 
 
 ## License
