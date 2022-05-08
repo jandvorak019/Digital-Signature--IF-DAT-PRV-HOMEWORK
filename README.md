@@ -17,6 +17,7 @@
  data.txt file must be manually overwritten for further signing
 
 ## Credit
+Me
 www.w3schools
 Job & Zeleňák
 
