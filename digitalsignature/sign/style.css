@@ -1,0 +1,15 @@
+input{ 
+    padding: 1em;
+    margin: .3em;
+    width: 20%;
+}
+button{
+    font-size: 1.3em;
+}
+header{
+    font-weight: normal;
+    font-size: 3em;
+    font-family: 'monospace';
+    padding-bottom: 6em;
+    padding-top: 3em;
+}
