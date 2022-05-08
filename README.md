@@ -13,7 +13,7 @@
 - enter url: localhost /digigital/verify in the browser to verify
 
   
-## Text Data:
+## Text Data
  data.txt file must be manually overwritten for further signing
 
 ## Credit
