@@ -4,7 +4,7 @@ CREATE Table IF NOT EXISTS subjects(
     idsubject INT NOT NULL AUTO_INCREMENT,
     surname VARCHAR(45) NOT NULL,
     firstname VARCHAR(45) NOT NULL,
-    PRIMARY KEY (idsubjects)
+    PRIMARY KEY (idsubject)
 );
 
 CREATE TABLE IF NOT EXISTS certif (
