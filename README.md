@@ -10,7 +10,7 @@
 - in UwAmpu turn on Apache and MySQL
 - in folder /digital/dat_creation/ there you'll find createDat.sql, which you use to create the database
 - turn on the web browser in which you enter the url: localhost/digigital/sign and you fill out the form
-- enter url: localhost /digigital/verify in the browser to verify
+- enter url: localhost /digital/verify in the browser to verify
 
   
 ## Text Data
